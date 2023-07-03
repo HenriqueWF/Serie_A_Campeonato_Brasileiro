@@ -7,7 +7,7 @@
 
 Olá!
 
-Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasileiro da Série A durante a Era dos Pontos Corridos. O objetivo do estudo foi obter insights sobre variáveis como pontuação, número de vitórias, derrotas e empates, além da distribuição de gols e cartões dessa competição futebolísitca nacional
+Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasileiro da Série A durante a Era dos Pontos Corridos. O objetivo do estudo foi obter insights sobre variáveis como pontuação, número de vitórias, derrotas e empates, além da distribuição de gols e cartões dessa competição futebolísitca nacional.
 
 [Link para o projeto completo no Google Colab](https://colab.research.google.com/drive/1sXlmLboty2xJMlC_YGA_uxpQNJGXYA9E?usp=sharing)
 
