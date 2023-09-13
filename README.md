@@ -57,7 +57,7 @@ Abaixo há um gráfico com a média dos clubes que mais receberam cartões verme
 </p>
 
 ## Meus Artigos Relacionados ao Estudo
- - 
+ - Em construção...
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
