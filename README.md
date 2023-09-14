@@ -10,6 +10,8 @@ Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasilei
 
 Pode acessar esse [link no Google Colab](https://colab.research.google.com/drive/1sXlmLboty2xJMlC_YGA_uxpQNJGXYA9E?usp=sharing) para acessar o projeto completo.
 
+É importante ressaltar que a análise de dados é uma ferramenta complementar e que o futebol também envolve fatores intangíveis e imprevisíveis. Afinal, o **'futebol é uma caixinha de surpresas'**.
+
 ## Fonte dos Dados
 Todos os dados usados aqui foram obtidos a partir do [Kaggle](https://www.kaggle.com/). Para esta análise exploratória inicial, serão utilizados três datasets disponibilizados no link abaixo:
 
@@ -54,6 +56,15 @@ Para essa análise, foi utilizado o dataset denominado df_cartoes. Nele há info
 Abaixo há um gráfico com a média dos clubes que mais receberam cartões vermelhos entre 2014 e 2022. Verificou-se que os clubes com melhor desempenho procuram evitar condutas que levem à expulsão de jogadores, enquanto que os times com menor sucesso tendem a se envolver em situações mais turbulentas, resultando em um maior número de cartões vermelhos.
 <p align="center">
   <img alt="Cartões Vermelhos" width="80%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/32d44360-13b3-46dc-93c6-a68ed300efdc">
+</p>
+
+### Bônus - Bar Chart Race
+No estudo, fiz um "Bar Chart Race" que acompanha a evolução dos clubes com base na pontuação de uma temporada específica. Pode verificar o gráfico e alterar o ano no estudo completo. 
+
+Quero aprimorá-lo posteriormente, de modo que apareça todas as temporadas, bem como as rodadas e informações adicionais.
+
+<p align="center">
+  <img alt="Cartões Vermelhos" width="70%" src="https://github.com/HenriqueWF/Serie_A_Campeonato_Brasileiro/assets/86746927/55a4bdce-55af-4a02-9930-b46ec4f42a90">
 </p>
 
 ## Meus Artigos Relacionados ao Estudo
