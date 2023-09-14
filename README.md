@@ -49,7 +49,7 @@ Como exemplo, Palmeiras, Atlético-MG e Flamengo, campeões das edições de 202
 </p>
 
 ### 3. Análise de Cartões
-Para essa análise, será utilizado o dataset denominado df_cartoes. Nele há informações sobre o Campeonato Brasileiro na Era dos Pontos Corridos a partir de 2014.
+Para essa análise, foi utilizado o dataset denominado df_cartoes. Nele há informações sobre o Campeonato Brasileiro na Era dos Pontos Corridos a partir de 2014.
 
 Abaixo há um gráfico com a média dos clubes que mais receberam cartões vermelhos entre 2014 e 2022. Verificou-se que os clubes com melhor desempenho procuram evitar condutas que levem à expulsão de jogadores, enquanto que os times com menor sucesso tendem a se envolver em situações mais turbulentas, resultando em um maior número de cartões vermelhos.
 <p align="center">
