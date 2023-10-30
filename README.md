@@ -8,7 +8,8 @@
 ## Objetivo do Estudo
 Essa é uma análise exploratória dos dados do *dataset* do Campeonato Brasileiro da Série A durante a Era dos Pontos Corridos. O objetivo do estudo foi obter insights sobre variáveis como pontuação, número de vitórias, derrotas e empates, além da distribuição de gols e cartões dessa competição futebolísitca nacional.
 
-Pode acessar esse [link no Google Colab](https://colab.research.google.com/drive/1sXlmLboty2xJMlC_YGA_uxpQNJGXYA9E?usp=sharing) para acessar o projeto completo.
+**Pode acessar o link abaixo para acessar o projeto completo:**
+ - [**Projeto no Google Colab**](https://colab.research.google.com/drive/1sXlmLboty2xJMlC_YGA_uxpQNJGXYA9E?usp=sharing)
 
 É importante ressaltar que a análise de dados é uma ferramenta complementar e que o futebol também envolve fatores intangíveis e imprevisíveis. Afinal, o **'futebol é uma caixinha de surpresas'**.
 
