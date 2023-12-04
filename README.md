@@ -69,7 +69,8 @@ Quero aprimorá-lo posteriormente, de modo que apareça todas as temporadas, bem
 </p>
 
 ## Meus Artigos Relacionados ao Estudo
- - Em construção...
+ - [**Matplotlib e Storytelling com Dados - Pt. I**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-i-48c289943d60)
+ - [**Matplotlib e Storytelling com Dados - Pt. II**](https://medium.com/data-hackers/matplotlib-e-storytelling-com-dados-pt-ii-35e0da269a1e)
 
 ## Contato
 Estou sempre aberto para sugestões e melhorias do trabalho! 
